@@ -2,68 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5eee24b-a33b-4966-aa02-036db3641b7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/scala_sdk_2_12_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/cambridge/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/cambridge/cambridge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/jama_rss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../drone/.idea/drone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../drone/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../drone/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../qisu/medicine/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../qisu/medicine/baidu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../qisu/medicine/weibo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../qisu/medicine/weixin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../qisu/medicine/zhihu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cell/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cell/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cell/Cell/cambridge/cambridge.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cell/Cell/cambridge/cambridge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cell/Cell/commands/crawlall.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cell/Cell/commands/crawlall.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cell/Cell/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cell/Cell/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cell/Cell/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cell/Cell/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cell/Cell/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cell/Cell/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cell/Cell/spiders/cell.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cell/Cell/spiders/sigle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cell/Cell/spiders/sigle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cell/Cell/spiders/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/.idea/Jamanetwork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/.idea/Jamanetwork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/commands/crawlall.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/commands/crawlall.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/json/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/commands/text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/academic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/academic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/advances.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/advances.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/bmj.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/bmj.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/bmj1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/bmj1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/cancerdiscovery.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/cancerdiscovery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/clincancerres.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/clincancerres.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/diabetes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/diabetes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/immunology.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/immunology.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/jamanetwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/jamanetwork.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/lww.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/lww.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/nejm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/nejm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/robotics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/sciencemag.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/sciencemag.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/stm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/stm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/thelancet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jamanetwork/Jamanetwork/spiders/thelancet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nature/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nature/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nature/.idea/nature.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nature/.idea/nature.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nature/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nature/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nature/nature/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nature/nature/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nature/nature/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nature/nature/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nature/nature/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nature/nature/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nature/nature/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nature/nature/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nature/nature/spiders/immunology.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nature/nature/spiders/immunology.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../qisu/App/Applications.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../qisu/App/Pro_TE_Maket.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../qisu/App/Submission.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../qisu/App/insert_mongo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../qisu/file/Application_ApplicationDocs.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../qisu/file/Pro_TE_mark_makelookup.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../qisu/file/Submission_Submission_lookup_SubmissionProperty.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sci.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/find.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -83,38 +24,87 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="3" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="3" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="355" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="355" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="456123002">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1461" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1461" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/TwoSum_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+              <folding>
+                <element signature="e#793#811#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/find.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/AddTwoNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               <folding>
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -144,6 +134,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/find.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/TwoSum_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/AddTwoNumbers.java" />
       </list>
     </option>
   </component>
@@ -160,9 +153,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="377" />
-    <option name="y" value="31" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="711" />
+    <option name="y" value="193" />
     <option name="width" value="1219" />
     <option name="height" value="833" />
   </component>
@@ -173,42 +166,63 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="leetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCodeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeJava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="leetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCodeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="leetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCodeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568602654841" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568641055818" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.5052301" />
     <property name="settings.editor.selected.configurable" value="vcs.CVS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="leetcode" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -222,6 +236,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="TwoSum_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.TwoSum_1" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwoSum_1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -232,43 +266,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568600154519</updated>
-      <workItem from="1568600158656" duration="2325000" />
+      <workItem from="1568600158656" duration="4311000" />
+      <workItem from="1568607083336" duration="5075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2325000" />
+    <option name="totallyTimeSpent" value="9386000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="586" y="23" width="1219" height="833" extended-state="0" />
+    <frame x="711" y="193" width="1219" height="833" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497876" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2497876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32928476" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32972974" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32972974" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928476" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32388663" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32928476" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,14 +332,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/find.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/find.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/TwoSum_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="e#793#811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
         </state>
       </provider>
     </entry>
