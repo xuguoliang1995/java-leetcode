@@ -11,7 +11,7 @@ package leetcode;
  */
 
 
-public class AddTwoNumbers {
+public class AddTwoNumbers_2 {
     /**
      * @param l1
      * @param l2
