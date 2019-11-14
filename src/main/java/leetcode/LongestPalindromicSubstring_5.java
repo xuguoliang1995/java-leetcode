@@ -38,10 +38,8 @@ public class LongestPalindromicSubstring_5 {
 
     }
 
-
     //从中间向两边扩散
     static String res = "";
-
     // space: O(1) time O(n^2)
     public static String longestPailndrimicSubstring2(String s) {
 
@@ -64,7 +62,6 @@ public class LongestPalindromicSubstring_5 {
         }
 
     }
-
 
     public static void main(String[] args) {
         String s = "qqabaq";
