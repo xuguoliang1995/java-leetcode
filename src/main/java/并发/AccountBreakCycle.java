@@ -17,7 +17,7 @@ public class AccountBreakCycle {
         }
         //锁定序号小的账户
         synchronized (left){
-            //锁定序号大的账户
+            //锁定序号大的账户 测试
             synchronized (right) {
                 if (this.balance > amt) {
                     this.balance -= amt;
